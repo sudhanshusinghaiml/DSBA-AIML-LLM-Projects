@@ -53,6 +53,14 @@ $ cd DSBA-AIML-LLM-Projects
          - The data of different types of wine sales in the 20th century is to be analysed. Both Sparkling Wine and Rose Wine data are from the same company. The objective is to analyze the current sales figures to build the most optimum model(s) on the complete data and forecast Wine Sales into the next 12 months future with appropriate confidence intervals/bands.
 
 
+**7. Capstone Project - Social Media Tourism**
+   - Topics Covered: Data Visualization, Exploratory Data Analysis, Logistic Regression, Decision Tree Classifier, k-Nearest Neighbors, Random Forest, ANN, Xtreme Gradient Boosting Classifier, Model Fine Tuning with GridSearch  
+      - **Project 1:** [Social Media Tourism - Capstone Project](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/07-CapstoneProject/social_media_tourism_modeling_final.ipynb)
+         - An aviation company has tele calling setup to reach out to each of the customers. But this time they want to make a targeted approach digitally rather than tele calling.
+		 - As the company wants to move away from tele calling, it is important to improve the power of data to generate some quality leads that will increase the revenue for Businesses.
+
+
+
 # Deep Learning - Projects
 
 Projects completed as a part of Great Learning's PGP - Artificial Intelligence and Machine Learning.
@@ -62,7 +70,7 @@ Projects completed as a part of Great Learning's PGP - Artificial Intelligence a
 
 Projects completed as a part of Great Learning's PGP - Generative AI Project.
 
-# Open Source Machine Learning Project Deployment
+# Open Source -End to End AIML Project Deployment
 
 | S.No  | Project Title 								| Project Link |
 | ----- | --------------------------------------------- | ------------ |
