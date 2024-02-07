@@ -43,8 +43,15 @@ $ cd DSBA-AIML-LLM-Projects
 
 **5. Text Mining:**
    - Topics Covered: NLTK - Natural Language Toolkit, WordCloud, Lamentizer, Stopwords 
-      - **Project 1:** [Text Mining](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/04-MachineLearning/SharkTankData-TextMining.ipynb)
+      - **Project 1:** [Text Mining](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/05-TextMining/SharkTankData-TextMining.ipynb)
          - The project used data of Shark Tank episodes that contains 495 entrepreneurs making their pitch to the VC sharks. We used “Description” column for the initial text mining exercise. The objective was to analyze the text and figure out the most frequent & important words in terms that the entrepreneurs have secured a deal or not. 
+
+
+**6. Time Series Forecasting:**
+   - Topics Covered: Linear Regression, Moving Average, Double Exponential Smoothing, Triple Exponential Smoothing, ARIMA, SARIMA, SARIMAX Models 
+      - **Project 1:** [Time Series Forecasting](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/06-TimeSeriesForecasting/Rose-wine-project-code.ipynb)
+         - The data of different types of wine sales in the 20th century is to be analysed. Both Sparkling Wine and Rose Wine data are from the same company. The objective is to analyze the current sales figures to build the most optimum model(s) on the complete data and forecast Wine Sales into the next 12 months future with appropriate confidence intervals/bands.
+
 
 # Deep Learning - Projects
 
@@ -54,3 +61,12 @@ Projects completed as a part of Great Learning's PGP - Artificial Intelligence a
 # Large Language Models - Projects
 
 Projects completed as a part of Great Learning's PGP - Generative AI Project.
+
+# Open Source Machine Learning Project Deployment
+
+| S.No  | Project Title 								| Project Link |
+| ----- | --------------------------------------------- | ------------ |
+|    1  | Customer Churn Prediction for Banking Client  | [Click Here](https://github.com/sudhanshusinghaiml/AWS-MLOps-Churn-Prediction-for-BankingCustomer)|
+|    2  | Price Prediction for Real Estate Dataset		| [Click Here] (https://github.com/sudhanshusinghaiml/End-to-End-Real-Estate-Price-Prediction-Model) |
+
+
