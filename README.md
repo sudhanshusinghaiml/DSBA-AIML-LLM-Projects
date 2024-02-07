@@ -29,11 +29,22 @@ $ cd DSBA-AIML-LLM-Projects
 
 **3. Predictive Modelling:**
    - Topics Covered: Multiple Variable Linear Regression, Ridge Regression, Lasso Regression, Logistic Regression, Linear DiscriminantAnalysis and Decision Trees
-      - **Project 1:** [Principal Component Analysis](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/03-PredictiveModelling/LinearRegression-CompactivData.ipynb)
+      - **Project 1:** [Regression Model](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/03-PredictiveModelling/LinearRegression-CompactivData.ipynb)
          - This project used comp-activ databases(a collection of a computer systems activity measures). The objective was to build a model to predict 'usr'(Portion of time (%) that cpus run in user mode) and to find out how each attribute affects the system to be in 'usr' mode.
-      - **Project 2:** [Clustering](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/03-PredictiveModelling/ClassificationModels-ContraceptiveSurvey.ipynb)
+      - **Project 2:** [Classification Models](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/03-PredictiveModelling/ClassificationModels-ContraceptiveSurvey.ipynb)
          - The project used data of 1473 females collected from a Contraceptive Prevalence Survey by the Republic of Indonesia Ministry of Health. The objective was to predict do/don't they use a contraceptive method of choice based on their demographic and socio-economic characteristics.
 
+
+**4. Machine Learning:**
+   - Topics Covered: Naive Bayes, K-Nearest Neighbors Algorithm, Ensemble Technique - Random Forest, Gradient Boosting, Logistic Regression, Linear DiscriminantAnalysis and Decision Trees, Model Finetuning using GridSearch
+      - **Project 1:** [Classification & Ensemble Models](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/04-MachineLearning/PredictModesOfTransport.ipynb)
+         - This project used travellers data to predict the preferred mode of transport to commute (between home and office based on the parameters like age, salary, work experience etc. given in the data set.
+		 
+
+**5. Text Mining:**
+   - Topics Covered: NLTK - Natural Language Toolkit, WordCloud, Lamentizer, Stopwords 
+      - **Project 1:** [Text Mining](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/04-MachineLearning/SharkTankData-TextMining.ipynb)
+         - The project used data of Shark Tank episodes that contains 495 entrepreneurs making their pitch to the VC sharks. We used “Description” column for the initial text mining exercise. The objective was to analyze the text and figure out the most frequent & important words in terms that the entrepreneurs have secured a deal or not. 
 
 # Deep Learning - Projects
 
