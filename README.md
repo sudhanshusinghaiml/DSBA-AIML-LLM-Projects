@@ -68,5 +68,6 @@ Projects completed as a part of Great Learning's PGP - Generative AI Project.
 | ----- | --------------------------------------------- | ------------ |
 |    1  | Customer Churn Prediction for Banking Client  | [Click Here](https://github.com/sudhanshusinghaiml/AWS-MLOps-Churn-Prediction-for-BankingCustomer)|
 |    2  | Price Prediction for Real Estate Dataset		| [Click Here] (https://github.com/sudhanshusinghaiml/End-to-End-Real-Estate-Price-Prediction-Model)|
+|    3  | 												|			   |
 
 
