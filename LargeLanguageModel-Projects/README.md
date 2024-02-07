@@ -1,6 +1,6 @@
 # Large Language Models - Projects
 
-Projects completed as a part of Great Learning's PGP - Artificial Intelligence and Machine Learning.
+Projects completed as a part of Great Learning's GenAI - Artificial Intelligence and Machine Learning.
 
 ## Installation
 ```
