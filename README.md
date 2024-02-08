@@ -11,7 +11,7 @@ $ cd DSBA-AIML-LLM-Projects
 
 **1. Applied Statistic**
    - Topics Covered: Descriptive Statistics, Probability & Conditional Probability, Hypothesis Testing, Inferential Statistics, Probability Distributions, Types of distribution and Binomial, Poisson & Normal distribution.
-      - **Project 1:** [Statistics for Decision Making](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/01-Statistics-for-Decision-Making/StatisticalMethods-for-DecisionMaking.ipynb)
+      - **Project 1:** [Statistics for Decision Making](https://nbviewer.org/github/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/01-Statistics-for-Decision-Making/StatisticalMethods-for-DecisionMaking.ipynb)
          - This project used Desriptive Statistics, Visualization and Exploratory Data Analysis(EDA) to generate insights to make valuable decisions for the Austo Motor Company.
       - **Project 2:** [Advanced Statistics for Decision Making](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/01-Statistics-for-Decision-Making/Advanced-Statistics-for-Decision-Making.ipynb)
          - For this project we framed an analytical problems and tested the understanding using Hypothesis Testing and ANOVA to generate insights and make valuable decisions.
