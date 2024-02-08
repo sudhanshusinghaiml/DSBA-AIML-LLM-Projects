@@ -1,8 +1,6 @@
 # Data Science and Business Analytics - Projects
 Projects completed as a part of Great Learning's PGP - Data Science and Business Analytics.
 
-Want to Know more about DSBA Projects - [Click Here](https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects/blob/develop/DataScienceBusinessAnalytics-Projects)
-
 ## Installation
 ```
 $ git clone https://github.com/sudhanshusinghaiml/DSBA-AIML-LLM-Projects.git
